@@ -1,0 +1,5 @@
+The Stage is Set: Verona's Repository
+Two households, both alike in dignity,
+Forked from the same ancestral main branch,
+Where civil commits make uncivil merges,
+And grudge-pulls burden fair Verona's logs.
