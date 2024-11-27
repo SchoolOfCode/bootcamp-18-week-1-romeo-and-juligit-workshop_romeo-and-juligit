@@ -87,3 +87,8 @@ By the end of this workshop, you’ll have practiced:
 - Writing meaningful commit messages and managing changes effectively.
 
 Remember, the key is to **practice, experiment, and have fun**. Happy coding!
+
+
+-----------
+
+Two households, both alike in dignity, in fair Verona, where we lay our scene.
