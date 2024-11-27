@@ -1,0 +1,8 @@
+The Stage is Set: Verona's Repository
+Two households, both alike in dignity,
+Forked from the same ancestral main branch,
+Where civil commits make uncivil merges,
+And grudge-pulls burden fair Verona's logs.
+
+The Commit History of Feuds
+The Montagues and Capulets, two feisty contributors, have been at odds for so many commits that their git history is riddled with unresolved merge conflicts. Nobody remembers why the beef started—perhaps someone force-pushed to main—but the feud rages on.
