@@ -91,4 +91,4 @@ Remember, the key is to **practice, experiment, and have fun**. Happy coding!
 
 -----------
 
-Two households, both alike in dignity, in fair Verona, where we lay our scene
+Two households, both alike in dignity, in fair Verona, where we lay our scene.
